@@ -2,17 +2,17 @@
 
 For Contributing see CONTRIBUTION.md
 
-# Youtube playlist links
+# 🚀 Youtube playlist links
 
-# Documentation
+# 🚀 Documentation
 
-# Practice here
+# 🚀 Practice here
 
-# Books
+# 🚀 Books
 
-# Websites
+# 🚀 Websites
 
-# Others
+# 🚀 Others
 
 
 This repository is for public welfare, feel free to star it and learn Graphs!
